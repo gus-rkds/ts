@@ -1,13 +1,13 @@
-starter fullstack
+#starter fullstack
 
--Client
+###Client
 
 Next
 Typescript
 tailwind
 Eslint - Prettier
 
--Server
+###Server
 Express
 Mongoose
 Nodemon
