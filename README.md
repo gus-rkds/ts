@@ -1,13 +1,5 @@
 Starter fullstack
 
-Client:
--Next
--Typescript
--tailwind
--Eslint - Prettier
+Client: Next, Typescript, tailwind, Eslint - Prettier
 
-Server:
--Express
--Mongoose
--Nodemon
--Eslint - Prettier
+Server: Express, Mongoose, Nodemon, Eslint - Prettier
